@@ -1,0 +1,13 @@
+package com.pazbarda.gradlecradle.gradlecradle;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class GradlecradleApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
