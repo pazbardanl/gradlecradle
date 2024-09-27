@@ -1,3 +1,4 @@
 rootProject.name = 'gradlecradle'
 
 include 'serviceA'
+include 'serviceB'
